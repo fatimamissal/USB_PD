@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Net Name : Old Net Name=Net_1 New Net Name=NetJ2_A5
+Change Net Name : Old Net Name=Net_2 New Net Name=NetJ2_B5
+Added Member To Class: ClassName=Sheet2 Member=Component C1 CL10B105KP8NNNC
+Added Member To Class: ClassName=Sheet2 Member=Component C2 CL10B105KP8NNNC
+Added Member To Class: ClassName=Sheet2 Member=Component C3 GRM188R61E475KE11D
+Added Member To Class: ClassName=Sheet2 Member=Component D1 SMAJ22A
+Added Member To Class: ClassName=Sheet2 Member=Component D2 SMAJ22A
+Added Member To Class: ClassName=Sheet2 Member=Component D3 19-237/R6GHBHC-A01/2T
+Added Member To Class: ClassName=Sheet2 Member=Component J1 1935161
+Added Member To Class: ClassName=Sheet2 Member=Component J2 1054500101
+Added Member To Class: ClassName=Sheet2 Member=Component R1 ERJP06J751V
+Added Member To Class: ClassName=Sheet2 Member=Component R2 ERJP06J751V
+Added Member To Class: ClassName=Sheet2 Member=Component R3 ERJP06J751V
+Added Member To Class: ClassName=Sheet2 Member=Component R4 RMCF0603FG1K00
+Added Member To Class: ClassName=Sheet2 Member=Component U1 STUSB4500QTR
+Added Member To Class: ClassName=Sheet2 Member=Component U2 ESDA25L
